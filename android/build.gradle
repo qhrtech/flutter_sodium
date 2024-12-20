@@ -3,7 +3,7 @@ android {
     if (project.android.hasProperty("namespace")) {
         namespace 'com.firstfloorsoftware.flutter_sodium'
     }
-    compileSdkVersion 28
+    compileSdkVersion 35
     defaultConfig {
         minSdkVersion 16
     }
